@@ -1,4 +1,5 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dosis&letterSpacing=px-wide&pause=1000&color=E5917C&width=435&lines=Hello+!+Eunah's+Github+%F0%9F%96%90%F0%9F%8F%BB)](https://git.io/typing-svg)
+<img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dosis&letterSpacing=px-wide&pause=1000&color=E5917C&width=435&lines=Hello+!+Eunah's+Github+%F0%9F%96%90%F0%9F%8F%BB)](https://git.io/typing-svg)
+">
 
 <!--Here are some ideas to get you started:
 
