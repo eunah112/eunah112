@@ -1,7 +1,4 @@
-<div class="text-[100px]">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dosis&letterSpacing=px-wide&pause=1000&color=E5917C&width=435&lines=Hello+!+Eunah's+Github+%F0%9F%96%90%F0%9F%8F%BB)](https://git.io/typing-svg)
-</div>
-<!-- ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dosis&letterSpacing=px-wide&pause=1000&color=E5917C&width=435&lines=Hello+!+Eunah's+Github+%F0%9F%96%90%F0%9F%8F%BB)](https://git.io/typing-svg) -->
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dosis&letterSpacing=px-wide&pause=1000&color=E5917C&width=435&lines=Hello+!+Eunah's+Github+%F0%9F%96%90%F0%9F%8F%BB)](https://git.io/typing-svg)
 <!--
 **eunah112/eunah112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
